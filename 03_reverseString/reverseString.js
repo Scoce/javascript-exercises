@@ -9,7 +9,5 @@ const reverseString = function(stringToReverse) {
 return reversedResult.join("");
 }
 
-console.log(reverseString("Hello"));
-
 // Do not edit below this line
 module.exports = reverseString;
